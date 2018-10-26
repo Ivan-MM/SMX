@@ -13,3 +13,5 @@ if(( jamon == "si") or (( abducion == "si") and ( dia == "jueves")) or ( estudia
   print("has aprobado")
 else:
   print("nos vemos en junio")
+
+
