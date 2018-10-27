@@ -25,3 +25,6 @@ Un foro Web permite a los usuarios interactuar con el grupo y llevar a cabo deba
 
 <strong>Preguntas y respuestas del Foro</strong>
 Los foros de preguntas y respuestas son foros web con funciones adicionales activadas para hacer preguntas sobre problemas y responder. Los temas pueden ser marcados como resueltos, o los usuarios pueden calificar. Además, puedes utilizar categorías para organizar tus preguntas en el foro. Se ha publicado a través de la interfaz Web, pero puede recibir actualizaciones por correo electrónico.
+
+<strong><em>Buzón de sugerencias de colaboración</em></strong>
+Los temas pueden ser mapeados a otros miembros y serán tratados como tareas que pueden ser solucionadas o reasignadas. Hay opciones adicionales para controlar quién puede asignar y recibir tareas
