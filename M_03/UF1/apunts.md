@@ -8,5 +8,4 @@
     <li><strong>=MAX:</strong> escoge el dato numérico mas grande de las celdas seleccionadas</li>
     <li><strong>=MIN:</strong> escoge el dato numérico mas equeño de las celdas seleccionadas</li>
     <li><strong>=AVG:</strong> clasificación de un valor especifico dentro de un conjunt de datos</li>
-    
     </ul>
