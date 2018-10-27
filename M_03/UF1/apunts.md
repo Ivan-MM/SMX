@@ -15,8 +15,7 @@
     <li><strong>=TODAY:</strong> te dice el dia exacto en el que estas</li>
     <li><strong>=NOW:</strong> te dice el dia y la hora exacto en el que estas (recomendado)</li>
    </ul>
-<strong><em>LISTAS DE DISTRIBUCIÓN</em></strong>
-
+<h2 id="título">LISTAS DE DISTRIBUCIÓN</h2>
 <strong>Lista de correo electrónico</strong>
 Una lista de correo electrónico permite a los usuarios publicar desde la web o por correo electrónico. Esta es una lista de distribución de grupos.
 
