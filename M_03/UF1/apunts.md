@@ -17,6 +17,7 @@
    </ul>
 <h2 id="título">LISTAS DE DISTRIBUCIÓN</h2>
 <strong>Lista de correo electrónico</strong>
+
 Una lista de correo electrónico permite a los usuarios publicar desde la web o por correo electrónico. Esta es una lista de distribución de grupos.
 
 <strong>Foro Web</strong>
