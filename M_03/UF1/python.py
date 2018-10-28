@@ -15,6 +15,13 @@ else:
   print("nos vemos en junio")
 
 
+edad = int(input("Cuantos años tienes? "))
+if ((edad <5)or(edad >= 65)):
+    print ("entras gratis")
+else:
+    print ("tienes que pagar 2.5€")
+    
+
 edad = 0;
 sexe = 1;          #0 és dona, 1 és home
 colorCabell = 0;
