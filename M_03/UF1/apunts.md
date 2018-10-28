@@ -28,3 +28,15 @@ Los foros de preguntas y respuestas son foros web con funciones adicionales acti
 
 <strong>Buzón de sugerencias de colaboración</strong>
 Los temas pueden ser mapeados a otros miembros y serán tratados como tareas que pueden ser solucionadas o reasignadas. Hay opciones adicionales para controlar quién puede asignar y recibir tareas
+
+<h2 id="título">PORCENTAJE, DESCUENTO, RECARGO Y IVA</h2>
+
+<strong>Porcentaje</strong> 88€ 14% Formula LARGA: 88·(14/100) Formula CORTA 88.0'14
+
+<strong>Descuento</strong> 88€ 14% Formula LARGA: Precio-(Precio·0'14) Formula CORTA Precio·(1-0'14) 100-14=86 Precio·0'86
+
+<strong>Recargo</strong> Precio+(Precio·0'14)
+(Precio·1)+(Precio·0,14)=Precio·(1+0'14)= Precio·1'14
+
+<strong>IVA</strong> Precio+(Precio·0'21)
+(Precio·1)+(Precio·21)=Precio·(1+21)= Precio·1'21
