@@ -22,7 +22,7 @@ else:
     print ("tienes que pagar 2.5€")
     
 
-    edad = int(input("que edad tienes?"))
+edad = int(input("que edad tienes?"))
 sexe = input("eres hombre o mujer?")
 color = int(input("Cual es el color de tu pelo? (1 Rubio/a, 2 Peliroja, 3 Morena, 0 para otro)"))
 jubilado=input("estas jubilado/a?")
