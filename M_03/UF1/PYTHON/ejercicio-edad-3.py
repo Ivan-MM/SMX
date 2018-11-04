@@ -1,5 +1,5 @@
-edad = int(input("que edad tiene tu teclado?"))
+edad = int(input("Indique su edad"))
 if (((edad >= 18)and(edad<=23))or(edad==17)):
-  print ("puedes entrar en la sesion de jovenes")
+  print ("puede entrar en la sesion de jovenes")
 else:
-    print("no puedes entrar a esta sesion")
+    print("no no tiene permitido el acceso a esta sesion")
