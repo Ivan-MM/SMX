@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1Knx3adZMssctOx9UxC9MD6VxQnlG_1r5CLVJSqY1sgk/edit?usp=sharing
+
 from math import pi
 area= input("¿Que area quiere calcular?(Escriba T si es un triangulo o C si es un cirulo)")
 if (area=="T"):
